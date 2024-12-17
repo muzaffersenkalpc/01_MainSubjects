@@ -182,7 +182,7 @@ namespace _02_Variables
             //gender = char.Parse(Console.ReadLine());
 
             //Console.WriteLine("Seçtiğiniz cinsiyet : " + gender);
-
+            //Console.WriteLine("Seçtiğiniz cinsiyet : " + gender);
             #endregion
             Console.Read();
 
