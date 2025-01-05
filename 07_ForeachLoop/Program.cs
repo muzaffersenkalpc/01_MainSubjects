@@ -11,7 +11,7 @@ namespace _07_ForeachLoop
     {
         static void Main(string[] args)
         {
-            #region
+            #region ForEach
 
             //Foreeach(1;2;3;4)
 
